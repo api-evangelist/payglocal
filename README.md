@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-PayGlocal is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://payglocal.in/
+PayGlocal provides a full‑stack cross‑border payments infrastructure authorised by the RBI in India. It enables merchants to accept international payments in multiple currencies, offering high success rates, real‑time FX, and biometric‑secured checkout. Serving over 12,000 merchants and 1 million global customers, PayGlocal supports Apple Pay, Google Pay, and a range of payment methods, helping businesses expand globally.
+
+**Areas:** Company · Payments · FinTech · Cross-Border · RBI-Authorized
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://payglocal.in/)
+- [Documentation](https://payglocal.in/docs/integration/api-overview)
+- [Getting started](https://payglocal.in/)
+- [Pricing](https://payglocal.in/pricing)
+- [Support](https://payglocal.in/contact)
+- [Blog](https://payglocal.in/blog)
+- [Compliance](https://payglocal.in/compliance)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/payglocal/](https://apis.io/providers/payglocal/).
